@@ -27,4 +27,8 @@ Before running this scripts, ensure you have the following installed and configu
 
 
 ## List Scripts 
-1. **Common Table Expression (CTE) with JSON**: Displays a list of data with aggregates (summaries) of some of its columns. Query results are displayed in JSON format. (01_cte_with_json.sql)
+1. [**Common Table Expression (CTE) with JSON**](01_cte_with_json.sql): 
+Displays a list of data with aggregates (summaries) of some of its columns. Query results are displayed in JSON format
+
+2. [**Block prcedure**](02_block_procedure_cursor.sql): 
+This sample cursor, update data
