@@ -37,3 +37,9 @@ Displays a list of data with aggregates (summaries) of some of its columns. Quer
 
 2. [**Block prcedure**](02_block_procedure_cursor.sql): 
 This sample cursor, update data
+
+3. [**Procedure with JSON parameter**](03_procedure_json_param.sql):
+Save data to multiple table from json paramater.
+- read JSON
+- read array JSON 
+- convert row to json with row_to_json
