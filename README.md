@@ -25,6 +25,11 @@ Before running this scripts, ensure you have the following installed and configu
    - Version: pgAdmin 4 or later
    - Download and Installation: [pgAdmin Download](https://www.pgadmin.org/download/)
 
+## Start/Stop PostgreSQL Database on Mac
+```
+$ brew services start postgresql@16
+$ brew services stop postgresql@16
+```
 
 ## List Scripts 
 1. [**Common Table Expression (CTE) with JSON**](01_cte_with_json.sql): 
